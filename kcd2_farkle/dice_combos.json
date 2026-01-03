@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "description": "Fixed 6-die combos (hands) to evaluate against multiple strategies.",
+  "combos": [
+    {
+      "name": "pie_x3_heavenly_x2_weighted",
+      "hand": [
+        "Heavenly Kingdom die",
+        "Pie die",
+        "Pie die",
+        "Heavenly Kingdom die",
+        "Pie die",
+        "Weighted die"
+      ]
+    },
+    {
+      "name": "heavenly_x3_pie_x2_weighted",
+      "hand": [
+        "Heavenly Kingdom die",
+        "Heavenly Kingdom die",
+        "Pie die",
+        "Heavenly Kingdom die",
+        "Pie die",
+        "Weighted die"
+      ]
+    },
+    {
+      "name": "favourable_x5_weighted",
+      "hand": [
+        "Favourable die",
+        "Favourable die",
+        "Favourable die",
+        "Favourable die",
+        "Favourable die",
+        "Weighted die"
+      ]
+    },
+    {
+      "name": "painted_x6",
+      "hand": [
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Painted die"
+      ]
+    },
+    {
+      "name": "painted_x5_weighted",
+      "hand": [
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Painted die",
+        "Weighted die"
+      ]
+    }
+  ]
+}

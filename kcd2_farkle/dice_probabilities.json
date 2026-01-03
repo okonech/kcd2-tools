@@ -1,0 +1,79 @@
+{
+  "formatVersion": 1,
+  "sourceDate": "2026-01-01",
+  "faces": [1, 2, 3, 4, 5, 6],
+  "dice": [
+    {
+      "name": "Devil's head die",
+      "maxQuantity": 1,
+      "wildcardFaces": [1],
+      "probabilities": {"1": 0.167, "2": 0.167, "3": 0.167, "4": 0.167, "5": 0.167, "6": 0.167}
+    },
+    {
+      "name": "Favourable die",
+      "maxQuantity": 5,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.333, "2": 0.0, "3": 0.056, "4": 0.056, "5": 0.333, "6": 0.222}
+    },
+    {
+      "name": "Grimy die",
+      "maxQuantity": 0,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.063, "2": 0.313, "3": 0.063, "4": 0.063, "5": 0.438, "6": 0.063}
+    },
+    {
+      "name": "Heavenly Kingdom die",
+      "maxQuantity": 4,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.368, "2": 0.105, "3": 0.105, "4": 0.105, "5": 0.105, "6": 0.211}
+    },
+    {
+      "name": "Lucky Die",
+      "maxQuantity": 5,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.273, "2": 0.045, "3": 0.091, "4": 0.136, "5": 0.182, "6": 0.273}
+    },
+    {
+      "name": "Mother-of-pearl die",
+      "maxQuantity": 0,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.25, "2": 0.083, "3": 0.083, "4": 0.083, "5": 0.25, "6": 0.25}
+    },
+    {
+      "name": "Odd die",
+      "maxQuantity": 7,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.267, "2": 0.067, "3": 0.267, "4": 0.067, "5": 0.267, "6": 0.067}
+    },
+    {
+      "name": "Painted die",
+      "maxQuantity": 7,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.2, "2": 0.067, "3": 0.067, "4": 0.067, "5": 0.4, "6": 0.2}
+    },
+    {
+      "name": "Pie die",
+      "maxQuantity": 3,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.462, "2": 0.077, "3": 0.231, "4": 0.231, "5": 0.0, "6": 0.0}
+    },
+    {
+      "name": "Sad Greaser's Die",
+      "maxQuantity": 0,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.261, "2": 0.261, "3": 0.043, "4": 0.043, "5": 0.261, "6": 0.13}
+    },
+    {
+      "name": "Strip die",
+      "maxQuantity": 1,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.25, "2": 0.125, "3": 0.125, "4": 0.125, "5": 0.188, "6": 0.188}
+    },
+    {
+      "name": "Weighted die",
+      "maxQuantity": 1,
+      "wildcardFaces": [],
+      "probabilities": {"1": 0.667, "2": 0.067, "3": 0.067, "4": 0.067, "5": 0.067, "6": 0.067}
+    }
+  ]
+}
